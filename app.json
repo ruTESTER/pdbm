@@ -1,0 +1,6 @@
+{
+  "name": "PokemonGo Map",
+  "description": "Live visualization of all the Pokémon (with option to show gyms and pokéstops) in an area on Pokémon Go.",
+  "repository": "https://github.com/ruTESTER/pdbm",
+  "keywords": ["pokemon", "pokemon go"],
+}
